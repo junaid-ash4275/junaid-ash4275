@@ -54,8 +54,8 @@ TypeScript-based project using BMAD method for daily tasks of HR.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=junaid-ash4275&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid-ash4275&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junaid-ash4275&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid-ash4275&layout=compact" />
 </p>
 
 <p align="center">
