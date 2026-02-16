@@ -21,9 +21,12 @@
 
 ## 🧰 Tech Stack
 **Frontend:** React, Angular, Next.js, TypeScript, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express.js
+**Backend:** Node.js, Express.js, Queues
+<br />
 **Database:** MongoDB, Postgress, Redis
+<br />
 **Tools:** Git/GitHub, REST APIs, JWT/Auth, Postman, Google Cloud Platform  SDK, BMAD Method
+<br />
 **Deployment:** AWS EC2, S3, Netlify, Vercel (and common cloud setups)
 
 > Tip: If you want, tell me your exact stack (e.g., PostgreSQL, Prisma, Redux, Docker), and I’ll tailor this perfectly.
